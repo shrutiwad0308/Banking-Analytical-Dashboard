@@ -69,3 +69,4 @@ Savings and checking accounts contribute significantly to overall deposits, high
 Consistent performance across joining cohorts (2013–2021) indicates stable long-term client acquisition
 
 7. Dashboard Screenshot
+https://github.com/shrutiwad0308/Banking-Analytical-Dashboard/blob/main/Banking%20Dashboard_2026.jpeg
